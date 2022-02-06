@@ -1,8 +1,6 @@
-- 👋 Hi, I’m Dhawal Raturi
-- 👀 I’m interested in software development. 
-- 🌱 I’m currently working on and learning the PERN stack. 
-- 💞️ I’m looking to collaborate on projects related to full stack development. 
-- 📫 You can reach out to me on linkedin or email me at dhawalraturi@gmail.com
+- 👋 Hi, I’m Dhawal
+- 👀 I’m a software developer working with ReactJS, NodeJS, Express and Postgres SQL. 
+- 📫 You can reach out to me on linkedin or via email at dhawalraturi@gmail.com
 
 <!---
 draturi95/draturi95 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
